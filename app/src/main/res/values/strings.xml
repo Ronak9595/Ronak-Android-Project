@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ronak project</string>
+
+        <string name="battery_full_description">Battery Full</string>
+        <string name="wifi_description">Wi-Fi Connected</string>
+        <string name="storage_description">Storage</string>
+</resources>

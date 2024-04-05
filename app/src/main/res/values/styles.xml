@@ -1,0 +1,18 @@
+<resources>
+
+    <!-- Style for the App Name TextView -->
+    <style name="AppNameTextStyle">
+        <item name="android:textSize">36sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+    <!-- Style for the Button -->
+    <style name="ButtonStyle">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:background">@drawable/button_background</item>
+    </style>
+
+</resources>
